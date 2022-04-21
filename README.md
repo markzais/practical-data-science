@@ -1,2 +1,2 @@
-# practical-data-science-coursera
-AWS | DeepLearning.AI
+# practical-data-science
+Coursera | AWS | DeepLearning.AI
